@@ -1,4 +1,5 @@
-# Questions for Week 2 Chat
+# info-2110
+## Questions for Week 2 Chat
 
 1. What happens if you use another number besides 0 for "return"?
 2. How can I get iTerm to not close so quickly after compiling and running my programs?
