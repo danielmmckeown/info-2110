@@ -1,0 +1,35 @@
+Can I make a For loop where it checks for the 3 tank inputs???
+
+float totalGallons;
+    float totalMiles;
+	
+// Prompt user for Tank #1 number of miles driven input
+        printf ("Enter the number of miles driven:\n");
+        scanf ("%f", &miles);
+
+// Display Tank #1 miles per gallon
+    mpg1 = miles / gallons;
+    totalMiles += miles;
+    totalGallons += gallons;
+        printf("The miles per gallon for this tank  %.6f\n", mpg1);
+}   //end while loop
+
+// Prompt user for Tank #2 gallons used 
+
+
+// Prompt user for Tank #1 number of miles driven input
+
+
+// Display Tank #2 miles per gallon
+
+
+// Prompt user for Tank #3 gallons used 
+
+
+// Prompt user for Tank #3 number of miles driven input
+
+
+// Display Tank #3 miles per gallon
+
+
+// Display overall MPG for all three tanks
